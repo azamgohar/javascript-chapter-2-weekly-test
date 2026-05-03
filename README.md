@@ -52,7 +52,7 @@ Ek aisa code likhiye jahan ek variable data pehle ek String ho, phir uski value 
 
 **Q9. The Key Difference:** 🔑🌍
 primitive aur reference types ka difference bataaiye, aur teeno reference types ke aur koi bhi 5 primitve types ke naam bataiye. 📚🌈
-**Karna kya hai:** Dono ko same naam dekar output check karne ka code likhna hai. 🧪🧐
+
 
 **Q10. The Shadowing Task:** 👥🏢
 Global Scope (khule mein) mein ek variable X = 12 banaaiye let use karke, phir ek block banaaiye {}, aur iske ander bhi let use karke X = "a dozen" banaaiye phir ander bhi Xko console karein aur bahar bhi, output kya aaya likhiye aur kyun aaya likhiye. 🏘️🏗️
